@@ -16,4 +16,6 @@ sebuah program sederhana bernama dropdown yang dibuat dengan html, css dan javas
 
 ### preview
 
+![result](https://github.com/candradwicahyo/dropdown/blob/master/20220426_212513.jpg)
+
 > dibuat oleh **candra dwi cahyo**
